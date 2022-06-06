@@ -52,7 +52,7 @@ chrono = { version = "0.4.11", default-features = false, features = [ "clock" ],
 crc = { version = "1.8.1", optional = true }
 crossbeam-queue = "0.2.1"
 crossbeam-channel = "0.4.2"
-crossbeam-utils = { version = "0.7.2", default-features = false }
+crossbeam-utils = { version = "0.8.7", default-features = false }
 digest = { version = "0.9.0", default-features = false, optional = true, features = [ "std" ] }
 encoding_rs = { version = "0.8.23", optional = true }
 either = "1.5.3"
