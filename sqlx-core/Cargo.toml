@@ -85,7 +85,7 @@ sha2 = { version = "0.9.0", default-features = false, optional = true }
 sqlformat = "0.1.0"
 thiserror = "1.0.19"
 time = { version = "0.2.16", optional = true }
-smallvec = "1.4.0"
+smallvec = "1.6.1"
 url = { version = "2.1.1", default-features = false }
 uuid = { version = "0.8.1", default-features = false, optional = true, features = [ "std" ] }
 whoami = "0.9.0"
